@@ -66,18 +66,19 @@ h6 { font-size: 16px;}
 
 .s2{
 	background-color: var(--secondaryColor);
-	border-bottom:1px solid var(--borderColor);
-	overflow:auto;
+	border-bottom: 1px solid var(--borderColor);
+	overflow: auto;
 }
-
-
-
 
 .main-container{
 	width: 1200px;
 	margin: 0 auto;
 }
 
+.main-project {
+	width: 90vw;
+	margin: 0 auto;
+}
 
 .greeting-wrapper{
 	display: grid;
